@@ -1,0 +1,50 @@
+{
+  "experience": [
+    {
+      "id": 1,
+      "title": "Analista de Ciberseguridad",
+      "company": "Ferrocarriles Argentinos",
+      "period": "Marzo - Actualidad",
+      "responsibilities": [
+        "Penetración de sistemas (Acunetix)",
+        "Gestión de seguridad (FortiSIEM)",
+        "Automatización de procesos",
+        "Desarrollo de dashboards (Power BI)",
+        "Documentación técnica"
+      ],
+      "skills": ["Acunetix", "FortiSIEM", "Power BI", "Automatización", "Documentación técnica"]
+    }
+  ],
+  "skills": [
+    "Análisis de Vulnerabilidades",
+    "Gestión de Incidentes",
+    "Penetración de Sistemas",
+    "FortiSIEM",
+    "Acunetix",
+    "Power BI",
+    "Automatización",
+    "Documentación Técnica",
+    "APIs",
+    "Seguridad en Redes"
+  ],
+  "education": [
+    {
+      "id": 1,
+      "degree": "Licenciatura en Sistemas",
+      "institution": "Universidad Argentina de la Empresa (UADE)",
+      "status": "En curso"
+    },
+    {
+      "id": 2,
+      "degree": "Formación en Inglés Avanzado",
+      "institution": "Centro Universitario de Idiomas (CUI)",
+      "status": "Completado"
+    }
+  ],
+  "contact": {
+    "email": "tu.email@ejemplo.com",
+    "linkedin": "linkedin.com/in/tu-perfil",
+    "github": "github.com/tu-usuario"
+  }
+}
+
